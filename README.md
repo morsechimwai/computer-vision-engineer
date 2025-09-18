@@ -31,7 +31,7 @@ Designed for those who want to practice the fundamentals and experiment with pop
 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/computer_vision_engineer.git
+git clone https://github.com/morsechimwai/computer-vision-engineer.git
 cd computer_vision_engineer
 ```
 
