@@ -26,6 +26,8 @@ Designed for those who want to practice the fundamentals and experiment with pop
 - Detectron2 / MMDetection
 - Labeling Tools
 
+---
+
 ## Getting Started
 
 1. Clone the repository
@@ -40,3 +42,9 @@ cd computer-vision-engineer
 ```
 pip install -r requirements.txt
 ```
+
+---
+
+## 🛡️ LICENSE
+
+[GPL-3.0](./LICENSE)
