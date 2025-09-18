@@ -32,7 +32,7 @@ Designed for those who want to practice the fundamentals and experiment with pop
 
 ```bash
 git clone https://github.com/morsechimwai/computer-vision-engineer.git
-cd computer_vision_engineer
+cd computer-vision-engineer
 ```
 
 2. Install dependencies
