@@ -42,9 +42,3 @@ cd computer-vision-engineer
 ```
 pip install -r requirements.txt
 ```
-
----
-
-## 🛡️ LICENSE
-
-[GPL-3.0](./LICENSE)
