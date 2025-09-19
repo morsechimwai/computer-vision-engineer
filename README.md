@@ -5,12 +5,12 @@ Designed for those who want to practice the fundamentals and experiment with pop
 
 #### Foundation
 
-- Basic Image Processing
-- Linear Algebra / Matrix Ops
+- [Basic Image Processing](./notebooks/image-processing.ipynb)
+- [Linear Algebra / Matrix Ops](./notebooks/linear-algebra-matrix-ops.ipynb)
 
 #### Core CV Models
 
-- Classic CV
+- [Classic CV](./notebooks/classic-cv.ipynb)
 - CNNs (Convolutional Neural Networks)
 - Transfer Learning
 
