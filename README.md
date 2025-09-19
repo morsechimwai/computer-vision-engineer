@@ -12,6 +12,11 @@ Designed for those who want to practice the fundamentals and experiment with pop
 
 - [Classic CV](./notebooks/classic-cv.ipynb)
 - CNNs (Convolutional Neural Networks)
+- - LeNet
+- - AlexNet
+- - VGG
+- - ResNet
+- - EfficientNet
 - Transfer Learning
 
 #### Advanced CV Architectures
