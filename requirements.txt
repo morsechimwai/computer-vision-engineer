@@ -3,3 +3,9 @@ opencv-python
 pillow
 matplotlib
 numpy
+
+# deep learning libraries
+torch
+torchvision
+torchaudio
+torchmetrics
