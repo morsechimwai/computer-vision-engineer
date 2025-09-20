@@ -24,12 +24,7 @@ Designed for those who want to practice the fundamentals and experiment with pop
 - Object Detection
 - Image Segmentation
 - Vision Transformers (ViT)
-
-#### Practical Tools & Frameworks
-
-- PyTorch + TorchVision
-- Detectron2 / MMDetection
-- Labeling Tools
+- CLIP
 
 ---
 
