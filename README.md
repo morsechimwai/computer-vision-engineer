@@ -12,7 +12,7 @@ Designed for those who want to practice the fundamentals and experiment with pop
 
 - [Classic CV](./notebooks/classic-cv.ipynb)
 - CNNs (Convolutional Neural Networks)
-- - LeNet
+- - [LeNet-5](./notebooks/cnn-lenet-5.ipynb)
 - - AlexNet
 - - VGG
 - - ResNet
