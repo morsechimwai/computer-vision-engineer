@@ -16,7 +16,7 @@ Designed for those who want to practice the fundamentals and experiment with pop
 - - [LeNet-5](./notebooks/cnn-lenet-5.ipynb)
 - - [AlexNet](./notebooks/cnn-alexnet.ipynb)
 - - [VGG-16](./notebooks/cnn-vgg-16.ipynb)
-- - ResNet
+- - [ResNet-18](./notebooks/cnn-resnet-18.ipynb)
 - - EfficientNet
 - Transfer Learning
 
