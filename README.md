@@ -15,7 +15,7 @@ Designed for those who want to practice the fundamentals and experiment with pop
 - - [Basic Deep Learning with 🔥Pytorch](./notebooks/basic-pytorch-dl.ipynb)
 - - [LeNet-5](./notebooks/cnn-lenet-5.ipynb)
 - - [AlexNet](./notebooks/cnn-alexnet.ipynb)
-- - VGG
+- - [VGG-16](./notebooks/cnn-vgg-16.ipynb)
 - - ResNet
 - - EfficientNet
 - Transfer Learning
