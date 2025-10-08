@@ -17,8 +17,10 @@ Designed for those who want to practice the fundamentals and experiment with pop
 - - [AlexNet](./notebooks/cnn-alexnet.ipynb)
 - - [VGG-16](./notebooks/cnn-vgg-16.ipynb)
 - - [ResNet-18](./notebooks/cnn-resnet-18.ipynb)
-- - EfficientNet
+- - [EfficientNet-B0](./notebooks/cnn-efficientnet-b0.ipynb)
 - Transfer Learning
+
+> PS. Each model was tested only on the CIFAR-100 dataset because it can be easily loaded from Torch, has a manageable data size, and includes a reasonable number of classes for experimentation.
 
 #### Advanced CV Architectures
 
