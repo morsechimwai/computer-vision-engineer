@@ -25,9 +25,26 @@ Designed for those who want to practice the fundamentals and experiment with pop
 #### Advanced CV Architectures
 
 - Object Detection
+- - Ultralytics YOLOv8
+- - Detectron2 (Facebook AI Research)
+- - MMDetection (OpenMMLab)
+- - DETR (Facebook) / DINO / RT-DETR
+
 - Image Segmentation
+- - U-Net / U-Net++ (PyTorch / Segmentation Models PyTorch)
+- - DeepLabV3 / DeepLabV3+ (TorchVision Model Zoo)
+- - Mask R-CNN (Detectron2 / MMDetection)
+- - Segment Anything Model (SAM by Meta AI)
+- - Meta’s Segment Anything 2 (SAM2)
+
 - Vision Transformers (ViT)
-- CLIP
+- - Vanilla ViT (Vision Transformer)
+- - DeiT (Data-Efficient Image Transformer)
+- - Swin Transformer (Shifted Window Transformer)
+- - ConvNeXt (Hybrid CNN + Transformer)
+- - DINOv2 / MAE (Self-Supervised ViT)
+
+- CLIP (Contrastive Language–Image Pretraining)
 
 ---
 
