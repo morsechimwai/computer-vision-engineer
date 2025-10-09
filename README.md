@@ -48,6 +48,19 @@ Designed for those who want to practice the fundamentals and experiment with pop
 
 - CLIP (Contrastive Language–Image Pretraining)
 
+#### Object Tracking
+- Basic Tracking
+- - Single Object Tracking (SOT)
+- - Multi-Object Tracking (MOT)
+
+- Advanced Tracking
+- - SORT (Simple Online and Realtime Tracking)
+- - DeepSORT
+
+- Frameworks
+- - ByteTrack (SOTA in MOT)
+- - OC-SORT / BoT-SORT
+- - Track Anything / SAM2 Tracking
 ---
 
 ## Getting Started
