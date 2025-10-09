@@ -7,12 +7,12 @@ Designed for those who want to practice the fundamentals and experiment with pop
 
 - [Basic Image Processing](./notebooks/image-processing.ipynb)
 - [Linear Algebra / Matrix Ops](./notebooks/linear-algebra-matrix-ops.ipynb)
+- [Basic Deep Learning with 🔥Pytorch](./notebooks/basic-pytorch-dl.ipynb)
 
 #### Core CV Models
 
-- [Classic CV](./notebooks/classic-cv.ipynb)
+- [Classical CV](./notebooks/classic-cv.ipynb)
 - CNNs (Convolutional Neural Networks)
-- - [Basic Deep Learning with 🔥Pytorch](./notebooks/basic-pytorch-dl.ipynb)
 - - [LeNet-5](./notebooks/cnn-lenet-5.ipynb)
 - - [AlexNet](./notebooks/cnn-alexnet.ipynb)
 - - [VGG-16](./notebooks/cnn-vgg-16.ipynb)
@@ -22,7 +22,7 @@ Designed for those who want to practice the fundamentals and experiment with pop
 
 > PS. Each model was tested only on the CIFAR-100 dataset because it can be easily loaded from Torch, has a manageable data size, and includes a reasonable number of classes for experimentation.
 
-#### Advanced CV Architectures
+#### CV Frameworks
 
 - Object Detection
 - - Ultralytics YOLOv8
@@ -36,6 +36,8 @@ Designed for those who want to practice the fundamentals and experiment with pop
 - - Mask R-CNN (Detectron2 / MMDetection)
 - - Segment Anything Model (SAM by Meta AI)
 - - Meta’s Segment Anything 2 (SAM2)
+
+#### Advanced CV Architectures
 
 - Vision Transformers (ViT)
 - - Vanilla ViT (Vision Transformer)
