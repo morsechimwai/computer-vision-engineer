@@ -18,7 +18,7 @@ Designed for those who want to practice the fundamentals and experiment with pop
 - - [VGG-16](./notebooks/cnn-vgg-16.ipynb)
 - - [ResNet-18](./notebooks/cnn-resnet-18.ipynb)
 - - [EfficientNet-B0](./notebooks/cnn-efficientnet-b0.ipynb)
-- Transfer Learning
+- [Transfer Learning](./notebooks/transfer-learning.ipynb)
 
 > PS. Each model was tested only on the CIFAR-100 dataset because it can be easily loaded from Torch, has a manageable data size, and includes a reasonable number of classes for experimentation.
 
