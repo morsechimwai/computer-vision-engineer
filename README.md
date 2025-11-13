@@ -1,6 +1,6 @@
 # Computer Vision Engineer
 
-A collection of code and learning materials for studying and revising **Computer Vision**.  
+A collection of code and learning materials for studying and revising **Computer Vision**.
 Designed for those who want to practice the fundamentals and experiment with popular tools and frameworks.
 
 #### Foundation
@@ -22,7 +22,26 @@ Designed for those who want to practice the fundamentals and experiment with pop
 
 > PS. Each model was tested only on the CIFAR-100 dataset because it can be easily loaded from Torch, has a manageable data size, and includes a reasonable number of classes for experimentation.
 
-#### CV Frameworks
+## Contributing
+
+ผมยังต้องฝึกอีกเยอะ และโปรเจคนี้ก็ยังมีช่องว่างให้พัฒนาอีกมากครับ
+หากคุณพบเห็นส่วนไหนที่สามารถปรับปรุงให้ดีขึ้นได้—ไม่ว่าจะเล็กหรือใหญ่—ยินดีรับทุกความช่วยเหลือจากชุมชนเลยครับ 🙏
+
+ขั้นตอนร่วมสนับสนุนก็ง่ายมาก:
+
+1. Fork repo นี้ไปที่ของคุณ
+2. สร้าง branch สำหรับส่วนที่คุณอยากปรับปรุง
+3. ลงมือเขียนโค้ด หรือเพิ่มเทสท์ หากจำเป็น
+4. ส่ง Pull Request พร้อมเล่าว่าคุณปรับปรุงอะไร อย่างไรบ้าง และทำไมถึงสำคัญ
+
+ทุกการมีส่วนร่วม ทั้งโค้ด ไอเดีย หรือ feedback ช่วยให้โปรเจคนี้เติบโตเร็วขึ้นมากครับ
+ขอบคุณที่มาช่วยกันสร้างสิ่งนี้ให้ดีขึ้นไปด้วยกันครับ 🩵
+
+---
+
+**🧑‍💻 Happy Hacking!**
+
+<!-- #### CV Frameworks
 
 - Object Detection
 - - Ultralytics YOLOv8
@@ -60,20 +79,4 @@ Designed for those who want to practice the fundamentals and experiment with pop
 - Frameworks
 - - ByteTrack (SOTA in MOT)
 - - OC-SORT / BoT-SORT
-- - Track Anything / SAM2 Tracking
----
-
-## Getting Started
-
-1. Clone the repository
-
-```bash
-git clone https://github.com/morsechimwai/computer-vision-engineer.git
-cd computer-vision-engineer
-```
-
-2. Install dependencies
-
-```
-pip install -r requirements.txt
-```
+- - Track Anything / SAM2 Tracking -->
