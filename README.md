@@ -3,13 +3,13 @@
 A collection of code and learning materials for studying and revising **Computer Vision**.
 Designed for those who want to practice the fundamentals and experiment with popular tools and frameworks.
 
-#### Foundation
+### Foundation
 
 - [Basic Image Processing](./notebooks/image-processing.ipynb)
 - [Linear Algebra / Matrix Ops](./notebooks/linear-algebra-matrix-ops.ipynb)
 - [Basic Deep Learning with 🔥Pytorch](./notebooks/basic-pytorch-dl.ipynb)
 
-#### Core CV Models
+### Core CV Models
 
 - [Classical CV](./notebooks/classic-cv.ipynb)
 - CNNs (Convolutional Neural Networks)
@@ -21,6 +21,9 @@ Designed for those who want to practice the fundamentals and experiment with pop
 - [Transfer Learning](./notebooks/transfer-learning.ipynb)
 
 > PS. Each model was tested only on the CIFAR-100 dataset because it can be easily loaded from Torch, has a manageable data size, and includes a reasonable number of classes for experimentation.
+
+## Workshops
+- [Face Swap Lab (InsightFace)](https://github.com/morsechimwai/python-insight-face-inswapper-128)
 
 ## Contributing
 
